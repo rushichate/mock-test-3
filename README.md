@@ -14,3 +14,6 @@ http://localhost:3000/books/  POST route this is protected route only admin can 
 
 http://localhost:3000/books/:id  POST route this is protected route only admin can update books
 
+http://localhost:3000/orders/ GET route   this is protected route only login user can get the orders
+
+http://localhost:3000/orders/  POST route   this is protected route only login user can create the order
